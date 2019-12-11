@@ -3,6 +3,7 @@
         <title>FORGE</title>
     </head>
     <body>
+        <h1> belo dia para morrer</h1>
 <?php 
     include_once("controller/Controller.php");
     $controller = new Controller();
